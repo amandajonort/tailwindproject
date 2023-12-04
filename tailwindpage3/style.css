@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url(hero@75.b2469a49.jpg);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffffff;
+}
